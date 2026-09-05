@@ -4,6 +4,7 @@ Hands-on observability environment built to study and demonstrate metrics, logs,
 
 The project runs on an Ubuntu Server VM hosted on Hyper-V and uses a containerized observability stack built with Docker Compose.
 
+> **End-to-end observability:** Metrics → Alerts → Logs → Trace ID → Distributed Trace → Root Cause
 ---
 
 ## Project Goals
